@@ -41,10 +41,9 @@ README.md
 ## Redux
 
 
-## Credits
-
-Repo created by Felipe De la Fuente @fadelafuente1
+## Acknowledgements
 
 This code was made thanks to the videos published by Pentacode
 https://www.youtube.com/watch?v=eN6CfnTDsQc
 
+Repo created by Felipe De la Fuente [@fadelafuente1](https://github.com/fadelafuente1)
